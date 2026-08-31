@@ -4,7 +4,7 @@ permalink: /
 title: "Yibin Liu"
 author_profile: true
 header:
-  overlay_image: images/your-banner.jpg
+  overlay_image: “樱花.HEIC”
   overlay_filter: 0.3
 excerpt: "About me"
 redirect_from:
