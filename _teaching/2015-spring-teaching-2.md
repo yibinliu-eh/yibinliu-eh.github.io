@@ -3,7 +3,7 @@ title: "ECO10120 Principle of Macroeconomics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2027-spring-teaching-1
-venue: "Queen's University Belfast, Department of Finance"
+venue: "Queen's University Belfast, Department of Economics"
 date: 2027
 location: "Belfast, United Kingdom"
 ---
