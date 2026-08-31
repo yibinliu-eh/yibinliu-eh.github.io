@@ -24,3 +24,14 @@ My PhD is funded by [Centre for Economics, Policy and History (CEPH)](https://ce
 Before I came to Belfast, I completed BSc in Economics at University College London and MSc Economic History (Research) at London School of Economics.
 
 You can reach me at [yibinliu27@hotmail.com](mailto:yibinliu27@hotmail.com).
+
+<style>
+.sidebar {
+  padding-top: 120px;
+}
+@media (max-width: 1023px) {
+  .sidebar {
+    padding-top: 20px;
+  }
+}
+</style>
