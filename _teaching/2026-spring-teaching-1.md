@@ -7,7 +7,6 @@ venue: "Queen's University Belfast, Department of Finance"
 location: "Belfast, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
