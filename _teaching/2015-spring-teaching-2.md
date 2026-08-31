@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "ECO10120 Principle of Macroeconomics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2027-spring-teaching-1
+venue: "Queen's University Belfast, Department of Finance"
+date: 2027
+location: "Belfast, United Kingdom"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
