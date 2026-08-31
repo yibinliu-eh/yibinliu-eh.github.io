@@ -17,3 +17,5 @@ main:
   - title: "CV"
     url: /cv/
 
+- title: "About me"
+  url: /about-me/
