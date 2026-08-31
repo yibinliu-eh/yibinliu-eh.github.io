@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-teaching-1
 venue: "Queen's University Belfast, Department of Finance"
-date: 2026
 location: "Belfast, United Kingdom"
 ---
 
