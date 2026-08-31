@@ -3,7 +3,7 @@ permalink: /
 title: "Yibin Liu"
 author_profile: true
 header:
-  overlay_image: “/images/mom1.jpg”
+  overlay_image: “/images/qub.jpg”
   overlay_filter: 0.3
 excerpt: "About me"
 redirect_from:
