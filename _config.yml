@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "IMG_2654.JPG"
   name             : "Yibin Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "PhD Candidate in Economics"
   location         : "Belfast"
   employer         : "Queen's University Belfast"
-  uri              : https://yibinliu-eh.github.io/
+  uri              : "https://yibinliu-eh.github.io/"
   email            : "yibinliu27@hotmail.com" 
 
   # Academic websites
