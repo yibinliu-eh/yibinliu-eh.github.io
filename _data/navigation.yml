@@ -9,16 +9,11 @@
 
 main:
   - title: "Research"
-    url: /Research/
- 
+    url: /publications/
+    
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
