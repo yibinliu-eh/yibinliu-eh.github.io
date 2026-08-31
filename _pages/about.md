@@ -26,12 +26,10 @@ Before I came to Belfast, I completed BSc in Economics at University College Lon
 You can reach me at [yibinliu27@hotmail.com](mailto:yibinliu27@hotmail.com).
 
 <style>
-.sidebar {
-  padding-top: 120px;
-}
-@media (max-width: 1023px) {
-  .sidebar {
-    padding-top: 20px;
+@media (min-width: 1024px) {
+  .sidebar.sticky {
+    top: 3em;
+    padding-top: 100px;
   }
 }
 </style>
