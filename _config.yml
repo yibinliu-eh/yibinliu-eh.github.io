@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yibin Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "PhD Candidate in Economics"
+  location         : "Belfast"
+  employer         : "Queen's University Belfast"
+  uri              : https://yibinliu-eh.github.io/
+  email            : "yibinliu27@hotmail.com" 
 
   # Academic websites
   academia         : # URL
