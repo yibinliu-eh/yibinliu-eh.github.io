@@ -2,9 +2,8 @@
 layout: splash
 permalink: /
 title: "Yibin Liu"
-author_profile: true
 header:
-  overlay_image: /images/qub.jpg
+  overlay_image: https://images.unsplash.com/photo-1477959858617-67f85cf4f1df
   overlay_filter: 0.3
 excerpt: "About me"
 redirect_from:
