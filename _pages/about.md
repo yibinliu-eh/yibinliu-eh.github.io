@@ -30,4 +30,7 @@ You can reach me at [yibinliu27@hotmail.com](mailto:yibinliu27@hotmail.com).
   position: relative;
   top: 0;
 }
+.author__avatar {
+  margin-top: -60px;
+}
 </style>
