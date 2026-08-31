@@ -7,12 +7,3 @@ venue: "Department of Finance，Queen's University Belfast"
 location: "Belfast, United Kingdom"
 ---
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
