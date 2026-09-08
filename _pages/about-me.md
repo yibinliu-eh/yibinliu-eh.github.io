@@ -12,5 +12,6 @@ Nonetheless, I stayed in economic history and developed a deeper interest in the
 
 ## Profiles & Affiliations
 
-- [Hong Kong Economic History Centre](https://www.hkhistory.net/2025/10/22/introducing-yibin-liu/)
-- [“实践社会科学：历史与理论”2026年研修班 Practical Social Sciences: History and Theory - 2026 Graduate Workshop](https://www.lishiyushehui.cn/student/studentList)
+- [Hong Kong History Centre](https://www.hkhistory.net/2025/10/22/introducing-yibin-liu/)
+- [“实践社会科学：历史与理论”2026年研修班
+- Practical Social Sciences: History and Theory - 2026 Graduate Workshop](https://www.lishiyushehui.cn/student/studentList)
